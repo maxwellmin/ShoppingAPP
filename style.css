@@ -40,7 +40,7 @@ ul {
     justify-content: space-between;
 }
 .quantity-btn {
-    background-color: #fff;
+    background-color: #af4d4d;
     border: 1px solid #ccc;
     color: #333;
 }
@@ -52,8 +52,12 @@ ul {
     background-color: #f44336;
     color: white;
 }
+
 .checkout-btn {
     display: block;
     width: 100%;
     text-align: center;
+    margin-top: 200px; /* Adjust this value as needed to create more space */
+    background-color: #000000;
+    color: white;
 }
